@@ -9,7 +9,7 @@ O projeto está rodando em `http://localhost:3000/`
 
 É necessário adicionar a `ANTI_CAPTCHA_KEY` no arquivo `.env`
 
-A resolução do captchar está sendo realizada através do [anti-captcha](https://anti-captcha.com/apidoc),
+A resolução do captcha está sendo realizada através do [anti-captcha](https://anti-captcha.com/apidoc),
 então acesse, crie sua conta e pessa um crédito bônus para pode testar a api. 
 
 ### observation
