@@ -3,6 +3,9 @@
 ## Description
 Projeto demostrativo em resolução de captcha.
 
+## Preview
+![captcha](https://github.com/Tiago-Alves-Dev/gifs/blob/main/captchar.gif)
+
 ## Further help
 
 O projeto está rodando em `http://localhost:3000/`
@@ -42,5 +45,3 @@ $ npm run start:prod
 ## creator
 
 - Author - `Tiago ALves de Souza`;
-
-![captcha](https://github.com/Tiago-Alves-Dev/gifs/blob/main/captchar.gif)
