@@ -18,7 +18,7 @@ então acesse, crie sua conta e pessa um crédito bônus para pode testar a api.
 ### observation
 
 headless = false (browser aberto)
-headless = true  (browser aberto)
+headless = true  (browser fechado)
 
 
 ## Installation
@@ -41,7 +41,3 @@ $ npm run start:dev
 # production mode
 $ npm run start:prod
 ```
-
-## creator
-
-- Author - `Tiago ALves de Souza`;
